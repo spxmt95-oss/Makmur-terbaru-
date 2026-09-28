@@ -1,0 +1,6 @@
+{
+  "name": "TOKO MAKMUR",
+  "description": "Aplikasi POS Kasir dan Manajemen Stok Toko Makmur - Jl. Kembang Kuning No.17, Surabaya",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
